@@ -1,0 +1,12 @@
+{
+    "git-buttons.showGitCheckout": true,
+    "git-buttons.showGitCleanAll": true,
+    "git-buttons.showGitSync": true,
+    "scm-buttons.showGitCleanAll": true,
+    "scm-buttons.showGitCheckout": true,
+    "scm-buttons.showGitCommitStagedSigned": true,
+    "scm-buttons.showGitCommitStagedAmend": true,
+    "scm-buttons.showGitPublish": true,
+    "remote.SSH.remoteServerListenOnSocket": true,
+    "git-buttons.showGitUndoCommit": false
+}
